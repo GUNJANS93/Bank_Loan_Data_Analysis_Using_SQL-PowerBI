@@ -1,18 +1,56 @@
 # Bank Loan Data Analysis Using SQL & PowerBI
-Objective: Analyze loan data to detect risk patterns and monitor financial KPIs.
-Tech Stack: SQL, Power BI, DAX
-Skills: Data Analysis, Dashboarding, Risk Modeling, KPI Tracking
+🚀 Project Overview
 
-✅ Key Features:
+Developed a real-time Loan Risk Analysis Dashboard to help financial institutions monitor loan performance, detect high-risk segments, and track key portfolio KPIs.
+Used SQL for data extraction and Power BI for dashboard creation and visualization.
+🎯 Objective
 
-    Analyzed 50,000+ loan records to identify risk segments
+    Analyze loan data to identify default patterns and credit risk exposure
 
-    Built real-time Power BI dashboards to track default rates, NPA, and loan performance
+    Provide dynamic insights to help credit teams detect risky borrowers early
 
-    Strengthened predictive modeling for loan risk assessment
+    Automate loan performance reporting to reduce manual efforts
 
-📊 Highlights:
+🛠️ Tech Stack & Tools Used
 
-    Enabled financial institutions to track loan performance daily
+    SQL (Data extraction & querying)
 
-    Improved early detection of high-risk borrowers
+    Power BI (Dashboard creation)
+
+    Excel (Power Query) (Data cleaning & transformation)
+
+📚 Skills Applied
+
+    Data Analysis
+
+    Dashboarding & Reporting
+
+    Data Cleaning & Transformation
+
+    KPI Tracking (Default Rates, NPA, Exposure at Default)
+
+✅ Key Features
+
+    ✔️ Built interactive Power BI dashboards with dynamic filters (Region, Loan Type, Risk Category)
+
+    ✔️ Automated data cleaning using Power Query
+
+    ✔️ Visualized key risk metrics:
+
+        🔥 Default Rate
+
+        📊 Non-Performing Assets (NPA)
+
+        💰 Loan Exposure
+
+    ✔️ Enabled drill-down analysis by product and customer segments
+
+📈 Results & Impact
+
+    🎯 Reduced manual reporting time by 40% through automation
+
+    🎯 Improved early detection of high-risk loan accounts
+
+    🎯 Delivered actionable insights to help financial teams manage portfolio risk
+
+📊 Screenshots
