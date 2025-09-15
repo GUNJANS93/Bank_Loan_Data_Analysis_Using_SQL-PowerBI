@@ -54,3 +54,10 @@ Used SQL for data extraction and Power BI for dashboard creation and visualizati
     🎯 Delivered actionable insights to help financial teams manage portfolio risk
 
 📊 Screenshots
+![Bank Loan_page-0001](https://github.com/user-attachments/assets/7fa083b6-fbc0-4cb9-a715-8afb89ec43ea)
+
+![Bank Loan_page-0002](https://github.com/user-attachments/assets/0597b389-d335-4ed1-a25a-922e5a2614b5)
+
+![Bank Loan_page-0003](https://github.com/user-attachments/assets/4061e471-8100-45f4-a9cf-25702bc2c816)
+
+
